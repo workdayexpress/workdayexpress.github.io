@@ -2,7 +2,7 @@
 layout: post
 title:  "Test Jupyter Notebook"
 date:   2020-04-25 21:58:30 +0200
-categories: jekyll update
+categories: test
 ---
 This is a simple blog to test blogging a jupyter notebook.
 
